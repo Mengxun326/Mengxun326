@@ -9,7 +9,7 @@
 
 ## 🤹‍♂️ 人形自走代码生成器 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mengxun326&show_icons=true&theme=default&hide_border=true&card_width=500&include_all_commits=true&count_private=true&line_height=24&custom_title=我的代码战斗力&title_color=586069&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mengxun326&custom_title=我的代码战斗力&title_color=586069&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mengxun326&show_icons=true&custom_title=我的代码战斗力&title_color=586069&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 ```java
 // 日常开发状态：
