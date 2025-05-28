@@ -8,7 +8,6 @@
 > "我的IDE是魔法杖，终端是冒蓝火的加特林" ——《论全栈工程师的自我修养》
 
 ## 🤹‍♂️ 人形自走代码生成器 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mengxun326&show_icons=true&theme=default&hide_border=true&card_width=500&include_all_commits=true&count_private=true&line_height=24&custom_title=我的代码战斗力&title_color=586069&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mengxun326&show_icons=true&custom_title=我的代码战斗力&title_color=586069&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 ```java
@@ -23,7 +22,7 @@ while(true) {
 }
 ```
 
-## � 技术栈杂耍表演 
+## 🔧 技术栈杂耍表演 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mengxun326&layout=compact&theme=default&hide_border=true&langs_count=6&card_width=500&exclude_repo=legacy-ssm-project&title_color=586069&text_color=24292e&bg_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
 ```javascript
