@@ -1,52 +1,113 @@
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=print(%22Hello%2C%20World!%20%E4%BB%A3%E7%A0%81%E6%88%98%E5%8F%8B%E4%BB%AC%22)" alt="Typing Animation" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:06B6D4&height=210&section=header&text=MengXun&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Lifelong%20Learner&descAlignY=58&descSize=17" width="100%" alt="Header" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=680&lines=Hello%2C+I'm+MengXun+%F0%9F%91%8B;C%2B%2B+%2F+Qt+Application+Developer;Full-stack+Development+Explorer;Turning+ideas+into+useful+software" alt="Typing SVG" />
+</a>
+
+<p>
+  <a href="https://github.com/Mengxun326">
+    <img src="https://img.shields.io/github/followers/Mengxun326?label=Followers&style=flat-square&logo=github" alt="GitHub Followers" />
+  </a>
+  <a href="https://www.meng-xun.top/">
+    <img src="https://img.shields.io/badge/Website-meng--xun.top-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Mengxun326&label=Profile%20Views&color=2563EB&style=flat-square" alt="Profile Views" />
+</p>
+
 </div>
 
-# 🚀 代码江湖档案
+## 👋 关于我
 
-> "我的IDE是魔法杖，终端是冒蓝火的加特林" ——《论全栈工程师的自我修养》
+你好，我是 **MengXun**，一名来自安徽理工大学的信息安全专业学生开发者。
 
-## 🤹‍♂️ 人形自走代码生成器 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mengxun326&show_icons=true&custom_title=我的代码战斗力&title_color=586069&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+我喜欢把课堂知识、工程实践与真实需求结合起来，专注于开发能够解决实际问题的软件。目前主要探索 **C++ / Qt 客户端开发、Web 全栈开发、移动应用、人工智能应用与数字孪生系统**。
 
-```java
-// 日常开发状态：
-while(true) {
-    try {
-        code();
-    } catch (Exception e) {
-        drinkCoffee();
-        // 咖啡因转换定理：咖啡杯数 ∝ Bug修复速度
-    }
+* 🔭 正在持续完善跨平台客户端与校园服务类项目
+* 🧩 喜欢从需求分析、架构设计到部署发布完整实现一个产品
+* 🛡️ 关注软件安全、数据保护、可靠更新与系统稳定性
+* 🤖 探索 AI、自动化工具和智能软件的工程化落地
+* 🌱 保持学习，保持构建，保持开源
+
+> 代码不只是作业或文件，而是把想法变成现实的工具。
+
+## 🚀 代表项目
+
+| 项目                                                                   | 技术栈                                                         | 简介                                                 |
+| -------------------------------------------------------------------- | ----------------------------------------------------------- | -------------------------------------------------- |
+| [**梦寻签到**](https://github.com/Mengxun326/mengxun-sign)               | Qt 6 · C++ · Android · FastAPI · SQLite                     | 学习通签到辅助应用，支持任务检测、批量处理、二维码扫描、GPS 定位、朋友帮签、加密存储和自动更新。 |
+| [**AUST-WIFI**](https://github.com/Mengxun326/AUST-WIFI)             | Qt 6 · C++17 · Qt Network                                   | 面向安徽理工大学校园网的智能重连工具，支持系统托盘、开机自启、跨平台适配、状态机管理和安全更新校验。 |
+| [**Campus Platform**](https://github.com/Mengxun326/campus-platform) | React · TypeScript · Ant Design Pro · SSM · MyBatis · MySQL | 大学生综合服务平台，包含用户中心、二手交易、兼职招聘、消息通知、内容审核和后台管理等模块。      |
+| [**SmartMine DT**](https://github.com/Mengxun326/SmartMine_DT)       | Qt 6 · C++ · OpenGL · PSO                                   | 煤矿巷道智能掘进数字孪生平台，集成多模态数据采集、煤岩识别、参数优化、实时监控与三维可视化。     |
+
+<div align="center">
+
+<a href="https://github.com/Mengxun326/AUST-WIFI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mengxun326&repo=AUST-WIFI&hide_border=true&theme=transparent" alt="AUST-WIFI" />
+</a>
+<a href="https://github.com/Mengxun326/mengxun-sign">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mengxun326&repo=mengxun-sign&hide_border=true&theme=transparent" alt="mengxun-sign" />
+</a>
+
+</div>
+
+## 🧰 技术栈
+
+### 编程语言
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,ts,js,html,css" alt="Programming Languages" />
+</p>
+
+### 框架与开发技术
+
+<p>
+  <img src="https://skillicons.dev/icons?i=qt,react,spring,fastapi,nodejs,vite" alt="Frameworks" />
+</p>
+
+### 数据库与工程工具
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,linux,cmake,maven,npm" alt="Tools" />
+</p>
+
+```cpp
+while (true) {
+    build();
+    learn();
+    improve();
 }
 ```
 
-## 🔧 技术栈杂耍表演 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mengxun326&layout=compact&theme=default&hide_border=true&langs_count=6&card_width=500&exclude_repo=legacy-ssm-project&title_color=586069&text_color=24292e&bg_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 GitHub 数据
 
-```javascript
-/* 前端开发哲学：
-   当设计师说"这个效果很简单"时
-   const 危险程度 = Math.pow(2, 10) */
-```
+<div align="center">
 
-## 📅 代码修行日历 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mengxun326&theme=github-light&hide_border=true&area=true&height=300&width=500&custom_title=我的%20GitHub%20功德簿)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mengxun326&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mengxun326&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Top Languages" />
 
-```
-/* 江湖传说：
-   绿色方块越多 -> 渡劫成功率越高
-   白色方块 -> 那天可能在和产品经理"论道" */
-```
+<br />
 
-## 🏆 玄学成就墙
-- 🥇 `git push --force` 生存大师（存活率100%）
-- 🥈 精准预判 `npm install` 失败时间（误差±3分钟）
-- 🥉 用console.log调试航天器控制系统（虚构的）
-- 🏅 让Swagger文档自动生成表情包（专利待申请）
+<img src="https://streak-stats.demolab.com?user=Mengxun326&hide_border=true&theme=transparent&locale=zh_Hans" alt="GitHub Streak" />
 
-> "别问为什么测试环境正常生产就炸，问就是量子纠缠" —— 《程序员防甩锅指南》第3章
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mengxun326&theme=github-compact&hide_border=true&area=true" width="96%" alt="Contribution Graph" />
 
 </div>
 
+## 🌐 联系我
+
+* GitHub：[github.com/Mengxun326](https://github.com/Mengxun326)
+* 个人网站：[www.meng-xun.top](https://www.meng-xun.top/)
+
+<div align="center">
+
+### Thanks for visiting! ⭐
+
+欢迎查看我的项目、提交 Issue，或通过 Pull Request 一起改进它们。
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:06B6D4&height=110&section=footer" width="100%" alt="Footer" />
+
+</div>
