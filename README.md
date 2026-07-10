@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:06B6D4&height=220&section=header&text=MengXun&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=C%2B%2B%20%2F%20Qt%20Developer%20%C2%B7%20Full-stack%20Explorer%20%C2%B7%20AI%20Builder&descAlignY=58&descSize=17" width="100%" alt="MengXun profile header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:06B6D4&height=210&section=header&text=MengXun&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Builder%20%7C%20Lifelong%20Learner&descAlignY=58&descSize=17" width="100%" alt="Header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+MengXun+%F0%9F%91%8B;Building+useful+software+from+real+needs;C%2B%2B+%2F+Qt+%7C+Full-stack+%7C+AI+Applications;Keep+learning%2C+keep+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=680&lines=Hello%2C+I'm+MengXun+%F0%9F%91%8B;C%2B%2B+%2F+Qt+Application+Developer;Full-stack+Development+Explorer;Turning+ideas+into+useful+software" alt="Typing SVG" />
 </a>
 
 <p>
@@ -18,74 +18,74 @@
 
 </div>
 
-## 馃憢 鍏充簬鎴?
-浣犲ソ锛屾垜鏄?**MengXun**锛屾潵鑷畨寰界悊宸ュぇ瀛︿俊鎭畨鍏ㄤ笓涓氱殑瀛︾敓寮€鍙戣€呫€?
-鎴戝枩娆㈡妸鐪熷疄闇€姹傛媶鎴愬彲钀藉湴鐨勪骇鍝侊細浠庨渶姹傚垎鏋愩€佹灦鏋勮璁°€佸鎴风涓庢湇鍔＄寮€鍙戯紝鍒伴儴缃插彂甯冨拰闀挎湡缁存姢銆傜洰鍓嶄富瑕佸叧娉?**C++ / Qt 瀹㈡埛绔紑鍙戙€乄eb 鍏ㄦ爤寮€鍙戙€佺Щ鍔ㄥ簲鐢ㄣ€佷汉宸ユ櫤鑳藉簲鐢ㄤ笌鏁板瓧瀛敓绯荤粺**銆?
-- 馃敪 姝ｅ湪鎸佺画瀹屽杽璺ㄥ钩鍙板鎴风銆佹牎鍥湇鍔″伐鍏峰拰鏅鸿兘鍖栧簲鐢?- 馃З 浜彈浠?0 鍒?1 鏋勫缓瀹屾暣浜у搧鐨勮繃绋嬶紝涔熼噸瑙嗗悗缁凯浠ｄ笌浣撻獙鎵撶（
-- 馃洝锔?鍏虫敞杞欢瀹夊叏銆佹暟鎹繚鎶ゃ€佸彲闈犳洿鏂般€佸紓甯告仮澶嶅拰绯荤粺绋冲畾鎬?- 馃 鎺㈢储 AI銆佽嚜鍔ㄥ寲宸ュ叿涓庡伐绋嬪満鏅粨鍚堢殑瀹為檯浠峰€?- 馃尡 淇濇寔瀛︿範锛屼繚鎸佹瀯寤猴紝淇濇寔寮€婧?
-> 浠ｇ爜涓嶅彧鏄綔涓氭垨鏂囦欢锛岃€屾槸鎶婃兂娉曞彉鎴愮幇瀹炵殑宸ュ叿銆?
-## 馃幆 褰撳墠鍏虫敞
+## 👋 关于我
 
-| 鏂瑰悜 | 鎴戝湪鍋氫粈涔?|
-| --- | --- |
-| 璺ㄥ钩鍙板鎴风 | 浣跨敤 Qt / C++ 鏋勫缓绋冲畾銆佹槗缁存姢銆佷綋楠屽畬鏁寸殑妗岄潰涓庣Щ鍔ㄧ搴旂敤銆?|
-| 鏍″洯鏈嶅姟绯荤粺 | 鍥寸粫鐪熷疄鏍″洯鍦烘櫙寮€鍙戝伐鍏蜂笌骞冲彴锛屾彁鍗囨祦绋嬫晥鐜囦笌浣跨敤浣撻獙銆?|
-| AI 宸ョ▼鍖?| 灏濊瘯鎶婃ā鍨嬭兘鍔涖€佽嚜鍔ㄥ寲娴佺▼鍜屼笟鍔￠渶姹傜粨鍚堟垚鍙氦浠樼殑杞欢鑳藉姏銆?|
-| 鏁板瓧瀛敓 | 鍏虫敞瀹炴椂鏁版嵁銆佷笁缁村彲瑙嗗寲銆佸弬鏁颁紭鍖栦笌宸ヤ笟鍦烘櫙涓殑鏅鸿兘鍐崇瓥銆?|
+你好，我是 **MengXun**，一名来自安徽理工大学的信息安全专业学生开发者。
 
-## 馃殌 浠ｈ〃椤圭洰
+我喜欢把课堂知识、工程实践与真实需求结合起来，专注于开发能够解决实际问题的软件。目前主要探索 **C++ / Qt 客户端开发、Web 全栈开发、移动应用、人工智能应用与数字孪生系统**。
 
-| 椤圭洰 | 鎶€鏈爤 | 绠€浠?|
+- 🔭 正在持续完善跨平台客户端与校园服务类项目
+- 🧩 喜欢从需求分析、架构设计到部署发布完整实现一个产品
+- 🛡️ 关注软件安全、数据保护、可靠更新与系统稳定性
+- 🤖 探索 AI、自动化工具和智能软件的工程化落地
+- 🌱 保持学习，保持构建，保持开源
+
+> 代码不只是作业或文件，而是把想法变成现实的工具。
+
+## 🚀 代表项目
+
+| 项目 | 技术栈 | 简介 |
 | --- | --- | --- |
-| [**姊﹀绛惧埌**](https://github.com/Mengxun326/mengxun-sign) | Qt 6 路 C++ 路 Android 路 FastAPI 路 SQLite | 闈㈠悜璇剧▼绛惧埌鍦烘櫙鐨勮緟鍔╁簲鐢紝鏀寔浠诲姟妫€娴嬨€佹壒閲忓鐞嗐€佷簩缁寸爜鎵弿銆丟PS 瀹氫綅銆佸姞瀵嗗瓨鍌ㄥ拰鑷姩鏇存柊銆?|
-| [**AUST-WIFI**](https://github.com/Mengxun326/AUST-WIFI) | Qt 6 路 C++17 路 Qt Network | 闈㈠悜瀹夊窘鐞嗗伐澶у鏍″洯缃戠殑鏅鸿兘閲嶈繛宸ュ叿锛屾敮鎸佺郴缁熸墭鐩樸€佸紑鏈鸿嚜鍚€佽法骞冲彴閫傞厤銆佺姸鎬佹満绠＄悊鍜屽畨鍏ㄦ洿鏂版牎楠屻€?|
-| [**Campus Platform**](https://github.com/Mengxun326/campus-platform) | React 路 TypeScript 路 Ant Design Pro 路 SSM 路 MyBatis 路 MySQL | 澶у鐢熺患鍚堟湇鍔″钩鍙帮紝鍖呭惈鐢ㄦ埛涓績銆佷簩鎵嬩氦鏄撱€佸吋鑱屾嫑鑱樸€佹秷鎭€氱煡銆佸唴瀹瑰鏍稿拰鍚庡彴绠＄悊绛夋ā鍧椼€?|
-| [**SmartMine DT**](https://github.com/Mengxun326/SmartMine_DT) | Qt 6 路 C++ 路 OpenGL 路 PSO | 鐓ょ熆宸烽亾鏅鸿兘鎺樿繘鏁板瓧瀛敓骞冲彴锛岄泦鎴愬妯℃€佹暟鎹噰闆嗐€佺叅宀╄瘑鍒€佸弬鏁颁紭鍖栥€佸疄鏃剁洃鎺т笌涓夌淮鍙鍖栥€?|
+| [**梦寻签到**](https://github.com/Mengxun326/mengxun-sign) | Qt 6 · C++ · Android · FastAPI · SQLite | 学习通签到辅助应用，支持任务检测、批量处理、二维码扫描、GPS 定位、朋友帮签、加密存储和自动更新。 |
+| [**AUST-WIFI**](https://github.com/Mengxun326/AUST-WIFI) | Qt 6 · C++17 · Qt Network | 面向安徽理工大学校园网的智能重连工具，支持系统托盘、开机自启、跨平台适配、状态机管理和安全更新校验。 |
+| [**Campus Platform**](https://github.com/Mengxun326/campus-platform) | React · TypeScript · Ant Design Pro · SSM · MyBatis · MySQL | 大学生综合服务平台，包含用户中心、二手交易、兼职招聘、消息通知、内容审核和后台管理等模块。 |
+| [**SmartMine DT**](https://github.com/Mengxun326/SmartMine_DT) | Qt 6 · C++ · OpenGL · PSO | 煤矿巷道智能掘进数字孪生平台，集成多模态数据采集、煤岩识别、参数优化、实时监控与三维可视化。 |
 
 <div align="center">
 
 <a href="https://github.com/Mengxun326/AUST-WIFI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mengxun326&repo=AUST-WIFI&hide_border=true&theme=transparent" alt="AUST-WIFI" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Mengxun326&repo=AUST-WIFI&hide_border=true&theme=transparent" alt="AUST-WIFI" />
 </a>
 <a href="https://github.com/Mengxun326/mengxun-sign">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mengxun326&repo=mengxun-sign&hide_border=true&theme=transparent" alt="mengxun-sign" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Mengxun326&repo=mengxun-sign&hide_border=true&theme=transparent" alt="mengxun-sign" />
 </a>
 
 </div>
 
-## 馃О 鎶€鏈爤
+## 🧰 技术栈
 
-### 缂栫▼璇█
+### 编程语言
 
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,c,java,python,ts,js,html,css" alt="Programming Languages" />
 </p>
 
-### 妗嗘灦涓庡紑鍙戞妧鏈?
+### 框架与开发技术
+
 <p>
   <img src="https://skillicons.dev/icons?i=qt,react,spring,fastapi,nodejs,vite" alt="Frameworks" />
 </p>
 
-### 鏁版嵁搴撲笌宸ョ▼宸ュ叿
+### 数据库与工程工具
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,linux,cmake,maven,npm" alt="Tools" />
 </p>
 
 ```cpp
-for (const auto& idea : ideas) {
-    design(idea);
-    build(idea);
-    iterate(idea);
+while (true) {
+    build();
+    learn();
+    improve();
 }
 ```
 
-## 馃搳 GitHub 鏁版嵁
+## 📊 GitHub 数据
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mengxun326&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mengxun326&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Top Languages" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Mengxun326&show_icons=true&rank_icon=github&include_all_commits=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mengxun326&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Top Languages" />
 
 <br />
 
@@ -97,14 +97,17 @@ for (const auto& idea : ideas) {
 
 </div>
 
-## 馃寪 鑱旂郴鎴?
-- GitHub锛歔github.com/Mengxun326](https://github.com/Mengxun326)
-- 涓汉缃戠珯锛歔www.meng-xun.top](https://www.meng-xun.top/)
+## 🌐 联系我
+
+- GitHub：[github.com/Mengxun326](https://github.com/Mengxun326)
+- 个人网站：[www.meng-xun.top](https://www.meng-xun.top/)
 
 <div align="center">
 
-### Thanks for visiting! 猸?
-娆㈣繋鏌ョ湅鎴戠殑椤圭洰銆佹彁浜?Issue锛屾垨閫氳繃 Pull Request 涓€璧锋敼杩涘畠浠€?
+### Thanks for visiting! ⭐
+
+欢迎查看我的项目、提交 Issue，或通过 Pull Request 一起改进它们。
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:06B6D4&height=110&section=footer" width="100%" alt="Footer" />
 
 </div>
